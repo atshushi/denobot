@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "sourceMap": false,
+    "baseUrl": ".",
+    "outDir": "./dist",
+    "strict": true,
+    "lib": ["dom", "dom.iterable", "esnext", "deno.ns", "deno.unstable"],
+    "strictPropertyInitialization": false,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "allowJs": true
+  }
+}
